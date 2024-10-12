@@ -6,5 +6,5 @@ Hello De-coders,
 We all are actualy decoding the fabric of existence within our(human's) limited perception by means of different language and then languaging it differently. Here, with quantumHCI, we are going to develop one such simillar approach but with a difffrent perspective and purpose. Interim results and conclusions might fork out to add social and / or economical value to the community, but the collective direction will aim for higher purpose.
 Ready for Revealations? Stay connected...
 
-Lets do _"Code the de-coding"_!!
+Lets _"Code the de-coding"_!!
 ~ H R Sharma ~
