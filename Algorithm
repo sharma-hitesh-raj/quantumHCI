@@ -1,0 +1,14 @@
+Quantum Algorithm currently may broadly be grouped into following categories:
+1. Siulation of Quantum Systems [Llyod]
+2. Breaking of Cryptographic Codes [Shor]
+3. Optimising / Combinatorial search [Grover]
+4. High Dimenssion Linear Algebra [HHL]
+5. Quantum Heuristics [QAOA]
+
+Quantum Algorithm Zoo (https://quantumalgorithmzoo.org/) is a comprehensive catalog of quantum algorithms.
+
+A. Algebraic and Number Theoretic Algorithms [Factoring
+B. Oracular Algorithms 
+C. Approximation and Simulation Algorithms
+D. Optimization, Numerics, and Machine Learning
+
