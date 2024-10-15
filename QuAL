@@ -1,4 +1,4 @@
-Quantum Algorithm currently may broadly be grouped into following categories:
+Quantum Algorithm (QuAL) currently may broadly be grouped into following categories:
 1. Siulation of Quantum Systems [Llyod]
 2. Breaking of Cryptographic Codes [Shor]
 3. Optimising / Combinatorial search [Grover]
@@ -7,7 +7,11 @@ Quantum Algorithm currently may broadly be grouped into following categories:
 
 Quantum Algorithm Zoo (https://quantumalgorithmzoo.org/) is a comprehensive catalog of quantum algorithms.
 
-A. Algebraic and Number Theoretic Algorithms [Factoring
+A. Algebraic and Number Theoretic Algorithms
+    Speedup - Superpolynomial : Algorithm Examples - Factoring, Discrete-log, Pell's Equation, Principal Ideal, Unit Group, Class Group, Gauss Sum, Matrix Elements and Kronecker Coefficients of Group Representations  
+    Speedup - Polynomial : Algorithm Examples - Primality Proving, Solving Exponential Congruences, Verifying Matrix Products, Subset-sum, 
+    Speedup - Variable : Algorithm Examples - Decoding, 
+    Speedup - Multiple/Various : Algorithm Examples - Quantum Cryptanalysis, 
 B. Oracular Algorithms 
 C. Approximation and Simulation Algorithms
 D. Optimization, Numerics, and Machine Learning
